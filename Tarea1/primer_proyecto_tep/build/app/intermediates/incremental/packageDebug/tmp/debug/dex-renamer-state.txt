@@ -1,0 +1,4 @@
+#Fri Oct 08 22:37:41 CDT 2021
+base.0=C\:\\Users\\Franco\\Documents\\ICO\\9no Semestre\\TEP Felipe\\primer_proyecto_tep\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

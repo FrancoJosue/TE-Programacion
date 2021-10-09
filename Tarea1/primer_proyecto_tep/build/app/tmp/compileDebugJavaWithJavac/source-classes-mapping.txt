@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/aragon/primer_proyecto_tep/BuildConfig.java
+ com.aragon.primer_proyecto_tep.BuildConfig
