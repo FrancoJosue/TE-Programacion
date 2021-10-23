@@ -7,4 +7,4 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-![RecibirInfo](Screenshot_2021-10-22-21-27-46-678_com.example.statefulwidget.jpg =250x "RecibirInfo")
+![RecibirInfo](Screenshot_2021-10-22-21-27-46-678_com.example.statefulwidget.jpg "RecibirInfo")
